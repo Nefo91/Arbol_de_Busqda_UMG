@@ -14,8 +14,8 @@ Metodo muy eficiente que permite ordenar el arbol logico conteniendo grandes can
 ## Screenshots
 
 <p>
-  <img src="./graphics/screen3.png" width="360">
-  <img src="./graphics/screen1.png" width="360">
-  <img src="./graphics/screen2.png" width="360">
+  <img src="./graphics/screen3.png" width="585">
+  <img src="./graphics/screen1.png" width="585">
+  <img src="./graphics/screen2.png" width="585">
 </p>
 
