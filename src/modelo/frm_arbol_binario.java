@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author david
+ * @author Nefi
  */
 public class frm_arbol_binario extends javax.swing.JFrame {
      Random aleatorio = new Random();
